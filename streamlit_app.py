@@ -1,3 +1,4 @@
+!pip install matplotlib
 from collections import namedtuple
 import altair as alt
 import numpy as np
