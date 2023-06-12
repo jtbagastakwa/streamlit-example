@@ -4,3 +4,9 @@ streamlit
 numpy
 matplotlib.pyplot
 seaborn
+import scipy.cluster.hierarchy as sch
+sklearn.tree import DecisionTreeClassifier
+sklearn.model_selection import train_test_split
+sklearn import metrics
+scipy.cluster.hierarchy import linkage, dendrogram
+sklearn.preprocessing import StandardScaler
